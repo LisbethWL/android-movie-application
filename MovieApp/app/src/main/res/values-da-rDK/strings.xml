@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ExitButton">Luk</string>
+    <string name="OkButton">Okay</string>
+    <string name="CancelButton">Annuller</string>
+    <string name="isWatched">Set</string>
+    <string name="notWatched">Ikke set</string>
+    <string name="RatingTxt">Brugerbedømmelse</string>
+    <string name="Com">Skriv kommentar</string>
+    <string name="head">Mine Film</string>
+    <string name="AddButton">Tilføj</string>
+    <string name="WriteTitle">Skriv titel</string>
+    <string name="DeleteButton">Slet</string>
+    <string name="Notify_head">Overvej at se</string>
+    <string name="Notify_end">den skulle være god</string>
+    <string name="Notify_title">Anbefaler</string>
+
+</resources>

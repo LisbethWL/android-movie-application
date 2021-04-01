@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">au510403Movies</string>
+    <string name="ExitButton">Exit</string>
+    <string name="OkButton">OK</string>
+    <string name="DeleteButton">Delete</string>
+    <string name="CancelButton">Cancel</string>
+    <string name="isWatched">Watched</string>
+    <string name="notWatched">Not watched</string>
+    <string name="RatingTxt">User Rating</string>
+    <string name="Com">Write comment here</string>
+    <string name="head">My Movies</string>
+    <string name="AddButton">Add</string>
+    <string name="WriteTitle">Write title</string>
+    <string name="Notify_head">Consider watching</string>
+    <string name="Notify_end">it should be great</string>
+    <string name="Notify_title">Recommending</string>
+</resources>
